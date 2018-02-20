@@ -1,0 +1,89 @@
+2017-10-15 17:14:27,540 	 <Dispatcher> 	 Level 21 	 40 	 1000 	 15 	 1508066067.54 	 Event          	 Init Scene
+2017-10-15 18:35:09,796 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 1508070909.8 	 Event          	 Init Scene
+2017-10-15 18:35:31,503 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 4.01453 	 Generated	mq4  	 31.0689067841
+2017-10-15 18:35:31,503 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 4.01491 	 QueueSize      	 1
+2017-10-15 18:35:31,504 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 4.01521 	 Generated	mq135 	 31.4238882065
+2017-10-15 18:35:31,504 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 4.0154 	 QueueSize      	 2
+2017-10-15 18:35:31,504 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 4.01561 	 Generated	mq6  	 31.4357910156
+2017-10-15 18:35:31,504 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 4.0158 	 QueueSize      	 3
+2017-10-15 18:35:35,490 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 8.0019 	 Generated	dht11 	 99.853931427
+2017-10-15 18:35:35,491 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 8.0027 	 QueueSize      	 5
+2017-10-15 18:35:35,492 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 8.0034 	 Generated	dht11 	 23.6196085548
+2017-10-15 18:35:35,493 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 8.00399 	 QueueSize      	 7
+2017-10-15 18:35:35,508 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 8.01978 	 Generated	mq4  	 39.6082181931
+2017-10-15 18:35:35,509 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 8.02051 	 QueueSize      	 8
+2017-10-15 18:35:35,510 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 8.02105 	 Generated	mq135 	 39.6492602825
+2017-10-15 18:35:35,510 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 8.02146 	 QueueSize      	 9
+2017-10-15 18:35:35,514 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 8.025 	 Generated	mq6  	 39.7718026638
+2017-10-15 18:35:35,514 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 8.0254 	 QueueSize      	 10
+2017-10-15 18:35:37,490 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 10.00194 	 Fit            	 Yes
+2017-10-15 18:35:37,495 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 10.00609 	 Sent	mq4       	 31.0689067841
+2017-10-15 18:35:37,495 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 10.00669 	 Sent	mq135     	 31.4238882065
+2017-10-15 18:35:37,496 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 10.00726 	 Sent	mq6       	 31.4357910156
+2017-10-15 18:35:37,496 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 10.0078 	 Sent	dht11     	 99.853931427
+2017-10-15 18:35:37,497 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 10.00832 	 Sent	dht11     	 99.8460006714
+2017-10-15 18:35:37,497 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 10.00883 	 Sent	dht11     	 23.6196085548
+2017-10-15 18:35:37,498 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 10.00933 	 Sent	dht11     	 23.6196025753
+2017-10-15 18:35:37,498 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 10.00984 	 Sent	mq4       	 39.6082181931
+2017-10-15 18:35:37,499 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 10.01033 	 Sent	mq135     	 39.6492602825
+2017-10-15 18:35:37,499 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 10.01086 	 Sent	mq6       	 39.7718026638
+2017-10-15 18:36:07,757 	 <Dispatcher> 	 ERROR 	 60 	 5000 	 10 	 40.26808 	 Error          	 MQTT publish failed.
+2017-10-15 18:36:07,758 	 <Dispatcher> 	 ERROR 	 60 	 5000 	 10 	 40.2696 	 Missing        	 publish failure recorded.
+2017-10-15 18:36:07,760 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 40.27114 	 Generated	dust 	 25.1827113628
+2017-10-15 18:36:07,761 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 40.2721 	 QueueSize      	 1
+2017-10-15 18:36:07,769 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 40.28037 	 Fit            	 Yes
+2017-10-15 18:36:07,772 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 40.28386 	 Generated	mq4  	 25.7695572376
+2017-10-15 18:36:07,773 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 40.28414 	 QueueSize      	 2
+2017-10-15 18:36:07,773 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 40.28433 	 Generated	dht11 	 67.9205112457
+2017-10-15 18:36:07,773 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 40.28452 	 QueueSize      	 4
+2017-10-15 18:36:07,773 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 40.2847 	 Generated	mq135 	 25.8097474575
+2017-10-15 18:36:07,773 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 40.28488 	 QueueSize      	 5
+2017-10-15 18:36:07,774 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 40.28507 	 Generated	mq6  	 25.8262591362
+2017-10-15 18:36:07,774 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 40.28522 	 QueueSize      	 6
+2017-10-15 18:36:07,774 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 40.2854 	 Generated	dht11 	 23.0006148219
+2017-10-15 18:36:07,774 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 40.28559 	 QueueSize      	 8
+2017-10-15 18:36:07,774 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 40.28574 	 UploadEvent    	 ENDED
+2017-10-15 18:36:07,775 	 <Dispatcher> 	 Level 45 	 60 	 5000 	 10 	 40.28603 	 UploadedSoFar  	 12.01563 KB
+2017-10-15 18:36:11,781 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 44.29227 	 Generated	mq135 	 15.9203605652
+2017-10-15 18:36:11,782 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 44.29312 	 QueueSize      	 9
+2017-10-15 18:36:11,782 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 44.29379 	 Generated	mq4  	 15.9365301132
+2017-10-15 18:36:11,783 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 44.29438 	 QueueSize      	 10
+2017-10-15 18:36:11,786 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 44.29768 	 Generated	mq6  	 15.9751682281
+2017-10-15 18:36:11,787 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 44.29831 	 QueueSize      	 11
+2017-10-15 18:36:15,781 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 48.29236 	 Generated	dht11 	 76.5183362961
+2017-10-15 18:36:15,782 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 48.29308 	 QueueSize      	 13
+2017-10-15 18:36:15,785 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 48.29611 	 Generated	dht11 	 23.5075104618
+2017-10-15 18:36:15,785 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 48.29664 	 QueueSize      	 15
+2017-10-15 18:36:15,789 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 48.30045 	 Generated	mq135 	 64.2722671032
+2017-10-15 18:36:15,789 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 48.30066 	 QueueSize      	 16
+2017-10-15 18:36:15,789 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 48.30089 	 Generated	mq4  	 64.2427377701
+2017-10-15 18:36:15,790 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 48.30108 	 QueueSize      	 17
+2017-10-15 18:36:15,792 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 48.30326 	 Generated	mq6  	 64.0783112049
+2017-10-15 18:36:15,792 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 48.30351 	 QueueSize      	 18
+2017-10-15 18:36:17,771 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 50.2821 	 Generated	dust 	 65.551388979
+2017-10-15 18:36:17,772 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 50.28315 	 QueueSize      	 19
+2017-10-15 18:36:17,774 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 50.28532 	 NoUpload       	 A negative
+2017-10-15 18:36:17,774 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 50.28584 	 Fit            	 No
+2017-10-15 18:36:17,775 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 50.28631 	 DataDrop       	 Yes
+2017-10-15 18:36:17,777 	 <Dispatcher> 	 ERROR 	 60 	 5000 	 10 	 50.28875 	 Error          	 Bundle not ready yet
+2017-10-15 18:36:17,879 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 50.39062 	 UploadEvent    	 ENDED
+2017-10-15 18:36:17,881 	 <Dispatcher> 	 Level 45 	 60 	 5000 	 10 	 50.392 	 UploadedSoFar  	 14.41699 KB
+2017-10-15 18:36:19,795 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 52.30619 	 Generated	mq135 	 63.8881390095
+2017-10-15 18:36:19,796 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 52.30711 	 QueueSize      	 19
+2017-10-15 18:36:19,796 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 52.30786 	 Generated	mq4  	 63.7607762814
+2017-10-15 18:36:19,797 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 52.30806 	 QueueSize      	 20
+2017-10-15 18:36:19,798 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 52.30935 	 Generated	mq6  	 63.6580898762
+2017-10-15 18:36:19,798 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 52.30953 	 QueueSize      	 21
+2017-10-15 18:36:23,788 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 56.29954 	 Generated	dht11 	 100.0
+2017-10-15 18:36:23,789 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 56.30049 	 QueueSize      	 23
+2017-10-15 18:36:23,793 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 56.30468 	 Generated	dht11 	 23.4857468224
+2017-10-15 18:36:23,793 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 56.30497 	 QueueSize      	 25
+2017-10-15 18:36:23,799 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 56.31077 	 Generated	mq135 	 83.5536489487
+2017-10-15 18:36:23,800 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 56.31119 	 QueueSize      	 26
+2017-10-15 18:36:23,802 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 56.31394 	 Generated	mq4  	 83.2437820435
+2017-10-15 18:36:23,803 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 56.31431 	 QueueSize      	 27
+2017-10-15 18:36:23,805 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 56.316 	 Generated	mq6  	 83.0397586823
+2017-10-15 18:36:23,805 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 56.31629 	 QueueSize      	 28
+2017-10-15 18:36:27,490 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 60.00117 	 EndEvent       	 started
+2017-10-15 18:36:27,491 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 60.00214 	 Utilization    	 295.26
+2017-10-15 18:36:27,491 	 <Dispatcher> 	 Level 21 	 60 	 5000 	 10 	 60.00265 	 Goodput        	 1.09733793944
